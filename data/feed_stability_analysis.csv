@@ -1,0 +1,5 @@
+metric_scope,row_count,observed_count,average_feed_age_seconds,median_feed_age_seconds,p95_feed_age_seconds,p99_feed_age_seconds,max_observed_feed_age_seconds,stale_bucket_frequency_avg_age_gt_60s,stale_bucket_frequency_max_age_gt_60s,desync_window_count,average_desync_duration_seconds,longest_desync_duration_seconds
+feed_age:trip_updates,5,275,23.687272727272727,21.386666666666667,31.548387096774192,31.548387096774192,136.0,0.0,0.4,,,
+feed_age:vehicle_positions,5,272,26.415441176470587,24.35211267605634,33.93333333333333,33.93333333333333,138.0,0.0,0.4,,,
+desync:trip_updates,2,2,22.0,22.0,31.9,32.78,33.0,,,2.0,109.5,134.0
+desync:vehicle_positions,10,10,17.2,12.5,33.199999999999996,34.64,35.0,,,10.0,89.6,135.0

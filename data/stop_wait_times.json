@@ -1,0 +1,500 @@
+{
+    "RETI (71344)": {
+        "average_wait_minutes": 22.7,
+        "min_wait_minutes": 11.2,
+        "max_wait_minutes": 39.2,
+        "sample_count": 18
+    },
+    "S. COSTANZA/ISTRIA (73381)": {
+        "average_wait_minutes": 21.8,
+        "min_wait_minutes": 11.8,
+        "max_wait_minutes": 36.2,
+        "sample_count": 6
+    },
+    "L.GO SOMALIA (78777)": {
+        "average_wait_minutes": 21.5,
+        "min_wait_minutes": 10.3,
+        "max_wait_minutes": 39.5,
+        "sample_count": 6
+    },
+    "TAGLIAMENTO/CLITUNNO (73662)": {
+        "average_wait_minutes": 20.8,
+        "min_wait_minutes": 2.0,
+        "max_wait_minutes": 44.1,
+        "sample_count": 8
+    },
+    "STAZ.NE TIBURTINA (MB) (82737)": {
+        "average_wait_minutes": 20.5,
+        "min_wait_minutes": 2.9,
+        "max_wait_minutes": 41.5,
+        "sample_count": 5
+    },
+    "L.GO AMBA ARADAM (70598)": {
+        "average_wait_minutes": 20.1,
+        "min_wait_minutes": 5.8,
+        "max_wait_minutes": 28.7,
+        "sample_count": 5
+    },
+    "PARCO DI CENTOCELLE (MC) (71749)": {
+        "average_wait_minutes": 20.0,
+        "min_wait_minutes": 10.2,
+        "max_wait_minutes": 42.4,
+        "sample_count": 22
+    },
+    "BALDUINA/MASSIMI (77166)": {
+        "average_wait_minutes": 19.7,
+        "min_wait_minutes": 11.4,
+        "max_wait_minutes": 30.8,
+        "sample_count": 8
+    },
+    "S. AGNESE ANNIBALIANO (MB1) (72677)": {
+        "average_wait_minutes": 19.0,
+        "min_wait_minutes": 6.0,
+        "max_wait_minutes": 36.6,
+        "sample_count": 30
+    },
+    "PRINCIPE UMBERTO (71662)": {
+        "average_wait_minutes": 18.6,
+        "min_wait_minutes": 10.0,
+        "max_wait_minutes": 42.3,
+        "sample_count": 101
+    },
+    "LA SPEZIA-LODI (MC) (82430)": {
+        "average_wait_minutes": 18.5,
+        "min_wait_minutes": 11.5,
+        "max_wait_minutes": 24.0,
+        "sample_count": 7
+    },
+    "VILLA BORGHESE/WASHINGTON (70033)": {
+        "average_wait_minutes": 17.8,
+        "min_wait_minutes": 12.3,
+        "max_wait_minutes": 20.6,
+        "sample_count": 5
+    },
+    "LGT MARZIO (82721)": {
+        "average_wait_minutes": 17.7,
+        "min_wait_minutes": 5.2,
+        "max_wait_minutes": 41.1,
+        "sample_count": 5
+    },
+    "PRENESTINA/TELESE (71015)": {
+        "average_wait_minutes": 17.6,
+        "min_wait_minutes": 10.1,
+        "max_wait_minutes": 40.1,
+        "sample_count": 12
+    },
+    "S. COSTANZA/NOMENTANA (73380)": {
+        "average_wait_minutes": 17.5,
+        "min_wait_minutes": 2.9,
+        "max_wait_minutes": 40.1,
+        "sample_count": 12
+    },
+    "S. CLAUDIO (81659)": {
+        "average_wait_minutes": 17.3,
+        "min_wait_minutes": 11.0,
+        "max_wait_minutes": 28.1,
+        "sample_count": 8
+    },
+    "PO/MUSEO BORGHESE (84298)": {
+        "average_wait_minutes": 17.3,
+        "min_wait_minutes": 8.9,
+        "max_wait_minutes": 38.4,
+        "sample_count": 5
+    },
+    "LGT VALLATI/PETTINARI (70149)": {
+        "average_wait_minutes": 17.2,
+        "min_wait_minutes": 11.2,
+        "max_wait_minutes": 24.6,
+        "sample_count": 9
+    },
+    "SCALO S. LORENZO/TALAMO (71335)": {
+        "average_wait_minutes": 17.1,
+        "min_wait_minutes": 10.1,
+        "max_wait_minutes": 38.0,
+        "sample_count": 23
+    },
+    "CUBA (72031)": {
+        "average_wait_minutes": 16.9,
+        "min_wait_minutes": 2.2,
+        "max_wait_minutes": 37.9,
+        "sample_count": 21
+    },
+    "MONTE MASSICO (73745)": {
+        "average_wait_minutes": 16.6,
+        "min_wait_minutes": 4.6,
+        "max_wait_minutes": 35.7,
+        "sample_count": 5
+    },
+    "PISANA/CASALE NINFEO (75431)": {
+        "average_wait_minutes": 16.4,
+        "min_wait_minutes": 11.3,
+        "max_wait_minutes": 25.8,
+        "sample_count": 10
+    },
+    "CASILINA/TOR PIGNATTARA (71695)": {
+        "average_wait_minutes": 16.2,
+        "min_wait_minutes": 11.1,
+        "max_wait_minutes": 21.8,
+        "sample_count": 5
+    },
+    "VALLE MELAINA/VENTOTENE (76754)": {
+        "average_wait_minutes": 16.2,
+        "min_wait_minutes": 3.0,
+        "max_wait_minutes": 34.5,
+        "sample_count": 13
+    },
+    "BENE/LIONELLO (81859)": {
+        "average_wait_minutes": 16.1,
+        "min_wait_minutes": 5.0,
+        "max_wait_minutes": 39.3,
+        "sample_count": 10
+    },
+    "BATTISTINI/DE LUCA (79313)": {
+        "average_wait_minutes": 15.7,
+        "min_wait_minutes": 11.0,
+        "max_wait_minutes": 29.7,
+        "sample_count": 6
+    },
+    "MONSELICE/STAZIONE TUSCOLANA (70411)": {
+        "average_wait_minutes": 15.3,
+        "min_wait_minutes": 10.7,
+        "max_wait_minutes": 29.0,
+        "sample_count": 26
+    },
+    "JONIO (MB1) (73755)": {
+        "average_wait_minutes": 15.2,
+        "min_wait_minutes": 10.1,
+        "max_wait_minutes": 37.5,
+        "sample_count": 19
+    },
+    "PIAZZALE DELLA FARNESINA (72017)": {
+        "average_wait_minutes": 15.0,
+        "min_wait_minutes": 7.6,
+        "max_wait_minutes": 21.7,
+        "sample_count": 6
+    },
+    "TIRRENO/VALLE SCRIVIA (76818)": {
+        "average_wait_minutes": 14.6,
+        "min_wait_minutes": 3.5,
+        "max_wait_minutes": 36.3,
+        "sample_count": 14
+    },
+    "NOMENTANA/XXI APRILE (71550)": {
+        "average_wait_minutes": 14.6,
+        "min_wait_minutes": 3.0,
+        "max_wait_minutes": 36.4,
+        "sample_count": 5
+    },
+    "C.SO FRANCIA/PONTE FLAMINIO (70179)": {
+        "average_wait_minutes": 14.5,
+        "min_wait_minutes": 2.0,
+        "max_wait_minutes": 42.8,
+        "sample_count": 225
+    },
+    "TIRRENO/MONTI SIBILLINI (71563)": {
+        "average_wait_minutes": 14.5,
+        "min_wait_minutes": 2.0,
+        "max_wait_minutes": 42.3,
+        "sample_count": 184
+    },
+    "TERMINI (MA-MB-FS) (83129)": {
+        "average_wait_minutes": 14.4,
+        "min_wait_minutes": 2.3,
+        "max_wait_minutes": 30.9,
+        "sample_count": 8
+    },
+    "VIGNE NUOVE/LUMIERE (74127)": {
+        "average_wait_minutes": 14.3,
+        "min_wait_minutes": 10.7,
+        "max_wait_minutes": 22.3,
+        "sample_count": 10
+    },
+    "FIUME (74308)": {
+        "average_wait_minutes": 14.2,
+        "min_wait_minutes": 2.7,
+        "max_wait_minutes": 36.9,
+        "sample_count": 5
+    },
+    "TOR DI QUINTO/LUPI (73955)": {
+        "average_wait_minutes": 14.1,
+        "min_wait_minutes": 11.6,
+        "max_wait_minutes": 21.4,
+        "sample_count": 7
+    },
+    "L.GO PUGLIESE (78788)": {
+        "average_wait_minutes": 13.8,
+        "min_wait_minutes": 10.2,
+        "max_wait_minutes": 40.5,
+        "sample_count": 11
+    },
+    "POLICLINICO (H) (71275)": {
+        "average_wait_minutes": 13.6,
+        "min_wait_minutes": 2.1,
+        "max_wait_minutes": 41.2,
+        "sample_count": 31
+    },
+    "TIRRENO/VALLE SCRIVIA (71562)": {
+        "average_wait_minutes": 13.2,
+        "min_wait_minutes": 2.0,
+        "max_wait_minutes": 42.8,
+        "sample_count": 41
+    },
+    "TRIESTE/ISTRIA (72673)": {
+        "average_wait_minutes": 13.1,
+        "min_wait_minutes": 2.6,
+        "max_wait_minutes": 32.1,
+        "sample_count": 31
+    },
+    "CLODIO (72913)": {
+        "average_wait_minutes": 13.1,
+        "min_wait_minutes": 11.4,
+        "max_wait_minutes": 15.5,
+        "sample_count": 8
+    },
+    "C.NE CORNELIA/AURELIA (73083)": {
+        "average_wait_minutes": 13.0,
+        "min_wait_minutes": 10.7,
+        "max_wait_minutes": 16.6,
+        "sample_count": 6
+    },
+    "TIRRENO/MONTI SIBILLINI (71577)": {
+        "average_wait_minutes": 12.9,
+        "min_wait_minutes": 2.6,
+        "max_wait_minutes": 30.1,
+        "sample_count": 6
+    },
+    "STELVIO (71539)": {
+        "average_wait_minutes": 12.9,
+        "min_wait_minutes": 4.8,
+        "max_wait_minutes": 20.4,
+        "sample_count": 8
+    },
+    "PRATI FISCALI/VALTOURNANCHE (73811)": {
+        "average_wait_minutes": 12.8,
+        "min_wait_minutes": 2.7,
+        "max_wait_minutes": 25.2,
+        "sample_count": 14
+    },
+    "FLAMINIA/BOCCARDO (77614)": {
+        "average_wait_minutes": 12.7,
+        "min_wait_minutes": 3.1,
+        "max_wait_minutes": 28.8,
+        "sample_count": 7
+    },
+    "VIGNE NUOVE/SEGNI (73568)": {
+        "average_wait_minutes": 12.7,
+        "min_wait_minutes": 9.4,
+        "max_wait_minutes": 17.5,
+        "sample_count": 6
+    },
+    "ISOLE CURZOLANE/EUGANEI (72426)": {
+        "average_wait_minutes": 12.6,
+        "min_wait_minutes": 10.3,
+        "max_wait_minutes": 15.1,
+        "sample_count": 6
+    },
+    "BUENOS AIRES (71363)": {
+        "average_wait_minutes": 12.6,
+        "min_wait_minutes": 2.5,
+        "max_wait_minutes": 40.3,
+        "sample_count": 14
+    },
+    "L.GO CHIGI (70600)": {
+        "average_wait_minutes": 12.3,
+        "min_wait_minutes": 2.2,
+        "max_wait_minutes": 38.1,
+        "sample_count": 27
+    },
+    "BRESSANONE/S. AGNESE ANNIBALIANO (MB1) (82186)": {
+        "average_wait_minutes": 12.2,
+        "min_wait_minutes": 2.3,
+        "max_wait_minutes": 23.1,
+        "sample_count": 5
+    },
+    "DALMAZIA (72666)": {
+        "average_wait_minutes": 12.2,
+        "min_wait_minutes": 2.3,
+        "max_wait_minutes": 15.7,
+        "sample_count": 7
+    },
+    "LEONE IV (71884)": {
+        "average_wait_minutes": 12.2,
+        "min_wait_minutes": 10.4,
+        "max_wait_minutes": 15.7,
+        "sample_count": 5
+    },
+    "LIEGI/UNGHERIA (70546)": {
+        "average_wait_minutes": 12.0,
+        "min_wait_minutes": 2.1,
+        "max_wait_minutes": 26.4,
+        "sample_count": 16
+    },
+    "JONIO (MB1) (73879)": {
+        "average_wait_minutes": 11.9,
+        "min_wait_minutes": 2.3,
+        "max_wait_minutes": 30.1,
+        "sample_count": 27
+    },
+    "LIMA (72032)": {
+        "average_wait_minutes": 11.8,
+        "min_wait_minutes": 2.0,
+        "max_wait_minutes": 32.4,
+        "sample_count": 13
+    },
+    "TERMINI (MA-MB-FS) (83128)": {
+        "average_wait_minutes": 11.8,
+        "min_wait_minutes": 3.5,
+        "max_wait_minutes": 19.1,
+        "sample_count": 5
+    },
+    "PORTA S. PAOLO (70927)": {
+        "average_wait_minutes": 11.4,
+        "min_wait_minutes": 2.7,
+        "max_wait_minutes": 22.1,
+        "sample_count": 5
+    },
+    "BERTOLONI (70457)": {
+        "average_wait_minutes": 11.1,
+        "min_wait_minutes": 2.6,
+        "max_wait_minutes": 24.2,
+        "sample_count": 6
+    },
+    "C.SO FRANCIA/FLAMINIA (70009)": {
+        "average_wait_minutes": 10.9,
+        "min_wait_minutes": 2.2,
+        "max_wait_minutes": 43.0,
+        "sample_count": 31
+    },
+    "PARIOLI/UNGHERIA (70458)": {
+        "average_wait_minutes": 10.4,
+        "min_wait_minutes": 2.2,
+        "max_wait_minutes": 45.0,
+        "sample_count": 72
+    },
+    "MANCINI (78056)": {
+        "average_wait_minutes": 10.2,
+        "min_wait_minutes": 2.0,
+        "max_wait_minutes": 43.1,
+        "sample_count": 23
+    },
+    "BALDUINA/CERBONI (76257)": {
+        "average_wait_minutes": 10.1,
+        "min_wait_minutes": 2.0,
+        "max_wait_minutes": 36.7,
+        "sample_count": 54
+    },
+    "SCALO SAN LORENZO (71293)": {
+        "average_wait_minutes": 10.0,
+        "min_wait_minutes": 2.0,
+        "max_wait_minutes": 42.3,
+        "sample_count": 12
+    },
+    "INDUNO (70920)": {
+        "average_wait_minutes": 9.7,
+        "min_wait_minutes": 2.0,
+        "max_wait_minutes": 17.0,
+        "sample_count": 7
+    },
+    "SCALO S. LORENZO (71322)": {
+        "average_wait_minutes": 9.6,
+        "min_wait_minutes": 2.0,
+        "max_wait_minutes": 35.0,
+        "sample_count": 14
+    },
+    "BUENOS AIRES (73595)": {
+        "average_wait_minutes": 9.0,
+        "min_wait_minutes": 6.0,
+        "max_wait_minutes": 11.9,
+        "sample_count": 6
+    },
+    "CAVRIGLIA/VALMARANA (72778)": {
+        "average_wait_minutes": 8.9,
+        "min_wait_minutes": 2.2,
+        "max_wait_minutes": 37.4,
+        "sample_count": 8
+    },
+    "LGT SASSIA/S. SPIRITO (H) (82181)": {
+        "average_wait_minutes": 8.5,
+        "min_wait_minutes": 2.1,
+        "max_wait_minutes": 23.3,
+        "sample_count": 8
+    },
+    "BUENOS AIRES (73629)": {
+        "average_wait_minutes": 8.4,
+        "min_wait_minutes": 2.1,
+        "max_wait_minutes": 20.7,
+        "sample_count": 34
+    },
+    "LIEGI/UNGHERIA (71262)": {
+        "average_wait_minutes": 8.3,
+        "min_wait_minutes": 2.0,
+        "max_wait_minutes": 42.6,
+        "sample_count": 84
+    },
+    "JONIO/MONTE FASCIA (73875)": {
+        "average_wait_minutes": 8.3,
+        "min_wait_minutes": 3.8,
+        "max_wait_minutes": 14.9,
+        "sample_count": 6
+    },
+    "V.LE REGINA MARGHERITA/NIZZA (71359)": {
+        "average_wait_minutes": 8.2,
+        "min_wait_minutes": 2.1,
+        "max_wait_minutes": 32.6,
+        "sample_count": 20
+    },
+    "PRATI FISCALI/VALTOURNANCHE (73805)": {
+        "average_wait_minutes": 8.1,
+        "min_wait_minutes": 2.3,
+        "max_wait_minutes": 19.9,
+        "sample_count": 12
+    },
+    "TERMINI (MA-MB-FS) (83476)": {
+        "average_wait_minutes": 8.0,
+        "min_wait_minutes": 2.1,
+        "max_wait_minutes": 13.5,
+        "sample_count": 5
+    },
+    "TIRRENO/SEMPIONE (71574)": {
+        "average_wait_minutes": 7.6,
+        "min_wait_minutes": 2.2,
+        "max_wait_minutes": 15.7,
+        "sample_count": 7
+    },
+    "UNGHERIA (70471)": {
+        "average_wait_minutes": 5.4,
+        "min_wait_minutes": 2.0,
+        "max_wait_minutes": 17.5,
+        "sample_count": 19
+    },
+    "V.LE REGINA MARGHERITA/MORGAGNI (72091)": {
+        "average_wait_minutes": 5.2,
+        "min_wait_minutes": 2.5,
+        "max_wait_minutes": 16.5,
+        "sample_count": 11
+    },
+    "P.ZA DI PORTA MAGGIORE (76628)": {
+        "average_wait_minutes": 4.6,
+        "min_wait_minutes": 2.3,
+        "max_wait_minutes": 7.8,
+        "sample_count": 6
+    },
+    "PARIOLI/STOPPANI (73571)": {
+        "average_wait_minutes": 4.4,
+        "min_wait_minutes": 2.3,
+        "max_wait_minutes": 6.8,
+        "sample_count": 8
+    },
+    "PORTA MAGGIORE (99123)": {
+        "average_wait_minutes": 3.9,
+        "min_wait_minutes": 2.4,
+        "max_wait_minutes": 6.5,
+        "sample_count": 6
+    },
+    "S. AGNESE ANNIBALIANO (MB1) (72650)": {
+        "average_wait_minutes": 3.7,
+        "min_wait_minutes": 2.1,
+        "max_wait_minutes": 7.3,
+        "sample_count": 7
+    }
+}

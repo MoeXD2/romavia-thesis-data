@@ -1,0 +1,291 @@
+﻿tweet_id,text,is_relevant,mode,complaint_type,information_failure_type,mentions_information_failure,mentions_physical_service_failure,routes,stop_ids,stop_names,areas,landmarks,severity,spatial_confidence,classification_confidence,short_summary,evidence_phrase
+3ec505dec5661febed8fa098432495f5,"@Atacroma
+ 
+@MercurioPsi
+ #atac #roma siamo in venti a piazzale Clodio sotto il sole che stiamo aspettando da mezz'ora il 69!! Che schifo di servizio!",True,bus,delay,none,False,True,69,,,piazzale Clodio,,5,medium,0.74,"A piazzale Clodio molte persone aspettano da mezz’ora il bus 69 sotto il sole, lamentando un servizio pessimo.","""siamo in venti a piazzale Clodio sotto il sole che stiamo aspettando da mezz'ora il 69"""
+633af766fa959c9d4c950aee7a8f3b06,"Come facevano a prevedere che a fine maggio sarebbe arrivato il caldo 
+
+#tram con finestroni bloccati
+
+Quoted Tweet:
+@InfoAtac tram 8 vettura 9249 da Piazza Venezia a Casaletto non funziona l'aria condizionata che però risulta accesa. Un forno",True,tram,breakdown,none,False,True,tram 8,,,Piazza Venezia|Casaletto,Piazza Venezia,4,medium,0.72,Segnalato malfunzionamento del tram: aria condizionata non funziona pur risultando attiva.,tram 8 ... risulta accesa. Un forno
+7f3fce89f8ae921716074fcb72913525,"Ah, le 2 linee #bus più frequenti di #Roma: Deposito e #FuoriServizio
+
+Quoted Tweet:
+@InfoAtac prossima partenza linea 62 da stazione Tiburtina? Saltata corsa delle 11.51. Il bus è arrivato, ha fatto scendere le persone ed è andato via con scritta DEPOSITO, seguito da un FUORI SERVIZIO",True,bus,out_of_service,terminus_or_out_of_service_confusion,True,True,62,,stazione Tiburtina,,,5,high,0.72,La linea 62 da stazione Tiburtina risulta con corsa “saltata”; il bus però passa solo per far scendere e poi esce con scritte DEPOSITO/FUORI SERVIZIO.,"""prossima partenza linea 62 da stazione Tiburtina? Saltata corsa delle 11.51. Il bus è arrivato... ed è andato via con scritta DEPOSITO, seguito da un FUORI SERVIZIO"""
+1118c4e320cf1d449a57f0d1ea13afc9,"""PEGGIOR trasporto pubblico d'Europa"" #CommissioneUE
+
+Quoted Tweet:
+Ieri #Nottedeimusei #metroA chiusa e servizio @InfoAtac  inesistente:alle 23 fermata #aracoeli sovraffollata in attesa di un 85 o 51 a 2 fermate ma mai arrivati.Alle 23.45 su un 87,un CARRO BESTIAME! Servizio vergognoso! @romamobilita @Roma @MiC_Italia  @romafaschifo @IlMsgitRoma",True,bus,overcrowding,none,False,True,85|51|87,,Aracoeli,,,3,high,0.78,"Sovraffollamento alla fermata Aracoeli e bus non arrivati/servizio inadeguato in orario serale, con citazione di vari bus (85, 51, 87).","alle 23 fermata #aracoeli sovraffollata in attesa di un 85 o 51 a 2 fermate ma mai arrivati ... Alle 23.45 su un 87,un CARRO BESTIAME!"
+01fbe884caa38c088762d59d5af5fc81,"@InfoAtac
+  ingressi metro a Conca d'Oro chiusi. Mezzi di superficie spariti. In breve non so come tornare a casa. Ah, ma ce la ciclabile qui, che stupida...",True,mixed,ghost_bus,physical_disconnect_ghost,True,True,,,Conca d'Oro,Conca d'Oro,,5,medium,0.74,"A Conca d'Oro ingressi della metro chiusi e i mezzi di superficie risultano spariti, rendendo difficile il rientro a casa.","""ingressi metro a Conca d'Oro chiusi. Mezzi di superficie spariti."""
+533d4e3d9199decac5ea57d3f1f87937,"@InfoAtac
+ è da mesi che sta così (la banda nera è un difetto di fotografia) e non si vedono le info sulle linee
+Fermata 71062 Gregorio VII San Damaso
+.
+
+@QuinziUgo
+ 
+@MercurioPsi
+ 
+@Antincivili",True,bus,missing_realtime_data,missing_realtime_information,True,False,,71062,Gregorio VII San Damaso,,,3,high,0.78,Su InfoAtac non si vedono le informazioni delle linee in corrispondenza della fermata 71062 Gregorio VII San Damaso.,e non si vedono le info sulle linee. Fermata 71062 Gregorio VII San Damaso
+45a5fb71d605ac146c82f25156525d67,"Banalmente, se c'è una causa PERMANENTE che allunga i tempi di percorrenza, su una linea essenziale Express come il 60, #ATAC dovrebbe mettere dei #bus in più. È l'ABC..
+
+Quoted Tweet:
+Oggi ho aspettato 30 minuti al capolinea #largopugliese !! Gli autisti del #60 hanno detto che è a causa dei lavori a #PiazzaVenezia. E quindi staremo così fino al 2033?
+@InfoAtac @MercurioPsi @OQuotidianaBlog @romamobilita",True,bus,delay,unclear,True,True,60,,largopugliese,Piazza Venezia,,4,medium,0.72,Attesa di 30 minuti al capolinea e autisti indicano ritardi dovuti ai lavori in zona Piazza Venezia.,"""ho aspettato 30 minuti al capolinea #largopugliese"" ... ""è a causa dei lavori a #PiazzaVenezia"""
+29f6fa98926c3b3aff2e45cc3cecb1a6,"#Roma riconfermata per il PEGGIOR trasporto pubblico d'Europa
+
+Quoted Tweet:
+@InfoAtac ora è un'ora e 30 minuti che attendiamo l'88 direzione Verano alla fermata Cavalieri/Pasquariello. È previsto che passi o bisogna cercare altri mezzi per muoversi?",True,bus,delay,none,False,True,88,,Cavalieri/Pasquariello,,,5,high,0.78,Attesa prolungata per il bus 88 in direzione Verano alla fermata Cavalieri/Pasquariello.,"""ora è un'ora e 30 minuti che attendiamo l'88 direzione Verano alla fermata Cavalieri/Pasquariello"""
+29d31b8e30178721fcc1a2a92841bd35,"le ""partenze intelligenti"" #ATAC
+
+Quoted Tweet:
+@InfoAtac buongiorno.
+Sto aspettando l'85 in direzione termini da un bel po'. Ora mi dà 2 vetture in arrivo tra 10 minuti, a distanza di 2 minuti. Non si può rimodulare l'orario per avere una distribuzione delle vetture più intelligente?",True,bus,wrong_eta,latency_or_stale_prediction,True,False,85,,,direzione Termini,Termini,3,medium,0.78,Segnalazioni di arrivo del bus 85 poco coerenti: indica vetture in arrivo a pochi minuti ma risultano molto vicine/irregolari nella distribuzione.,"Ora mi dà 2 vetture in arrivo tra 10 minuti, a distanza di 2 minuti."
+db191dd42fd410cc7f0beadfc1d108d2,"..e il Comune butta MLN€ f9ndi pubblici nel #MaaS, anziché risolvere PRIMA i problemi di monitoraggio GPS/AVM 
+@CorteContiPress
+
+Quoted Tweet:
+@InfoAtac vettura 2897  del  719 transistata sa poco alla fermata 74650 e non monitorata. A voi sembrerà sciocco, ma per chi ha orari serrati poter sapere quando passano i bus con affidabilità è importante",True,bus,missing_realtime_data,telemetry_blackout,True,False,719,74650,,,,3,high,0.78,"Secondo InfoAtac, un bus (vettura 2897) transitata sul 719 avrebbe registrato poco in fermata (74650) ed è risultata non monitorata, impedendo previsioni affidabili.","""InfoAtac vettura 2897 del 719 transistata ... a poco alla fermata 74650 e non monitorata"""
+e8cf600f9dbb5944ca7b3fa3873b5e1d,"E il 60 dov'è? Il deserto a #Largopugliese anche alle 8 di mattina, come accade spessissimo!!
+
+@MercurioPsi
+ 
+@OQuotidianaBlog
+ 
+@romamobilita",True,bus,ghost_bus,physical_disconnect_ghost,True,True,60,,,Largo Pugliese,#Largopugliese,5,medium,0.74,"Il bus 60 non passa mai nonostante sia atteso, con servizio mancante anche a Largo Pugliese.","E il 60 dov'è? Il deserto a #Largopugliese anche alle 8 di mattina, come accade spessissimo!!"
+0ffb739a9f57595909bef0a14acd80b7,"#CuraDelFerro #ATAC #Roma
+
+Quoted Tweet:
+@InfoAtac non passa il 5 alla fermata 71007? È 40 minuti che aspetto.",True,bus,ghost_bus,physical_disconnect_ghost,True,True,,71007,,,,3,high,0.82,"Allo stato di @InfoAtac il bus 5 dovrebbe passare, ma alla fermata indicata l’utente aspetta da 40 minuti senza che il mezzo arrivi.","""non passa il 5 alla fermata 71007? È 40 minuti che aspetto."""
+43f9ccc85090448d920bae2f9c39d56e,"È la #CuraDelFerro #Roma
+
+Quoted Tweet:
+@InfoAtac Buongiorno ma il 3 direzione Valle Giulia fermata Porta S. Giovanni quando passa?!? è più di mezz’ora che aspettiamo 
+Imbarazzante che passi un 51 OGNI 5 MINUTI VUOTO",True,bus,ghost_bus,physical_disconnect_ghost,True,True,3|51 OGNI 5 MINUTI VUO,,,Valle Giulia|Porta S. Giovanni,,4,medium,0.74,Segnalata mancata corsa/mezzo vuoto: il 3 per Valle Giulia non passa alla fermata di Porta S. Giovanni mentre risulta come frequente (51 ogni 5 minuti vuoto).,"""il 3 direzione Valle Giulia fermata Porta S. Giovanni"" ... ""è più di mezz’ora che aspettiamo""; ""51 OGNI 5 MINUTI VUOTO"""
+3ed4e16262f59931151503cb07904a89,"il ""potenziamento"" della linea #bus 105..
+
+Quoted Tweet:
+@InfoAtac scusate ma il 105 verso parco di Centocelle, fermata Casilina labicano sta veramente tra 28 minuti? Follia spero non sia così e ce ne sia anche un altro magari non segnato sull’app",True,bus,wrong_eta,latency_or_stale_prediction,True,False,105,,Casilina Labicano,Parco di Centocelle,,5,medium,0.78,"Passeggero contesta su InfoAtac l’ETA del bus 105 verso Parco di Centocelle alla fermata Casilina Labicano (~28 minuti), suggerendo informazioni non affidabili sull’app.","""il 105 verso parco di Centocelle, fermata Casilina labicano sta veramente tra 28 minuti?"" ... ""non segnato sull’app"""
+2fb87d6f9d752bda6e323c98ed8c0852,"Buon pomeriggio, vi segnalo che a Baldo degli Ubaldi la 2a e unica scala mobile accessibile in uscita dir. Piazza Irnerio (la più lunga) sia ferma. 
+Gli utenti non meritano questo trattamento, la gente arriva in cima piegata sulle gambe e sofferente 
+@InfoAtac
+ 
+@MercurioPsi",True,mixed,service_suspension,none,False,True,,,Baldo degli Ubaldi|Piazza Irnerio,Baldo degli Ubaldi,,5,medium,0.74,A Baldo degli Ubaldi la scala mobile accessibile in uscita direzione Piazza Irnerio risulta ferma.,a Baldo degli Ubaldi la 2a e unica scala mobile accessibile in uscita dir. Piazza Irnerio ... sia ferma
+7caaf120099e3fd06d108ed824edabc8,"ore 18:47 ""come mai il 2 a Flaminio è previsto tra 19 min? E siamo qui da 10’""
+
+ore  19:34 ""bus in arrivo"" #ATAC
+
+Quanto avrà aspettato
+
+Quoted Tweet:
+@InfoAtac come mai il 2 a Flaminio è previsto tra 19 min? E siamo qui da 10’",True,bus,wrong_eta,latency_or_stale_prediction,True,True,2,,Flaminio,,,5,medium,0.72,A Flaminio il bus 2 è previsto tra 19 minuti ma la partenza non arriva; l’utente aspetta da 10 minuti.,“come mai il 2 a Flaminio è previsto tra 19 min? E siamo qui da 10’”
+f08db7859880c59788c9008e4a50463b,cmq a Battistini e in altri punti (Flaminio ad esempio) non c'è segnale di rete,True,mixed,missing_realtime_data,telemetry_blackout,True,False,,,,Battistini|Flaminio,,4,medium,0.72,"Mancano rete/segna di copertura a Battistini e altri punti, impedendo il segnale per il trasporto in tempo reale.",a Battistini e in altri punti (Flaminio ad esempio) non c'è segnale di rete
+63517d3debdcfd4eb459a2bdab2fb269,"#CuraDelFerro #ATAC #Roma
+
+Quoted Tweet:
+@InfoAtac scusate sono almeno 20 minuti che non parte il 3 da Porta Maggiore per Trastevere, eppure è sul binario pronto. Quando parte?",True,bus,delay,none,False,True,3,,Porta Maggiore,Trastevere,,5,medium,0.72,Il bus/mezzo della linea 3 non parte da Porta Maggiore per Trastevere nonostante risulti pronto sul binario.,"""sono almeno 20 minuti che non parte il 3 da Porta Maggiore per Trastevere, eppure è sul binario pronto"""
+0badbf1a668456a436f2cbb00de19b2b,"#MetroC CHIUSA oggi tratta Giardinetti-Pantano, attivi #bus sostitutivi MC9",True,mixed,service_suspension,none,False,True,MC9|MetroC,,,Giardinetti-Pantano,,3,medium,0.78,Chiusura della linea MetroC nel tratto Giardinetti-Pantano e attivazione di bus sostitutivi MC9.,"""#MetroC CHIUSA oggi tratta Giardinetti-Pantano, attivi #bus sostitutivi MC9"""
+c14df3f35e621d5b04bdda150fe5b715,"Ma 
+@antitrust_it
+ nulla da dire su #ATAC e le prescrizioni fatte?
+
+Quoted Tweet:
+Ecco oggi che il 990 direzione lungotevere è letteralmente scomparso, doveva passare alle 14:17 a Cerboni e si è dissolto nel tragitto, se provo a inserire la richiesta di rimborso mi dà errore, ma i dati sono esatti…",True,bus,ghost_bus,physical_disconnect_ghost,True,True,990,,Cerboni,,,4,medium,0.75,Il bus 990 direzione Lungotevere risulta “scomparso” e non passa secondo l’orario previsto; problemi anche con la richiesta di rimborso.,"Ecco oggi che il 990 direzione lungotevere è letteralmente scomparso, doveva passare alle 14:17 a Cerboni e si è dissolto nel tragitto"
+822423b93f674d7114e2ace3e5d44696,"Termini CHIUSA ma il problema è sia ESTERNO (probabile tubatura rotta), che INTERNO: #ATAC ha dato IN RITARDO e in modo APPROSSIMATIVO le informazioni, dicendo che era chiusa (GENERICAM) Termini, quindi TANTI hanno capito che era chiusa ANCHE per #MetroB 
+
+@spitella
+ 
+@MaurizioSgroi",True,mixed,service_suspension,unclear,True,True,MetroB|Metro,,Termini,,,4,high,0.72,"Nonostante Termini fosse chiusa, ATAC/Informazioni sono state date in ritardo e in modo approssimativo, causando confusione sul servizio anche della MetroB.","“Termini CHIUSA ma… #ATAC ha dato IN RITARDO e in modo APPROSSIMATIVO le informazioni, dicendo che era chiusa … Termini, quindi TANTI hanno capito che era chiusa ANCHE per #MetroB”"
+3d8770d40ec00f7598f7d8bdcd7a0528,"vabbé..
+
+Quoted Tweet:
+Roma. Ore 08.40, San Giovanni: nessuna traccia del bus 51, 15 minuti di attesa per l'87. Prendo la metro: ci obbligano a scendere a Termini. Prendo il bus in via Nazionale. Tutto bloccato per il traffico in via Quattro Novembre @InfoAtac @eugenio_patane",True,mixed,delay,none,False,True,51|87,,San Giovanni|Termini,,,5,high,0.72,Bus 51 non arriva e ritardi/attesa (15 min) per l’87; traffico blocca le strade e costringe a scendere a Termini per proseguire in metro.,"“San Giovanni: nessuna traccia del bus 51, 15 minuti di attesa per l'87… Tutto bloccato per il traffico in via Quattro Novembre”"
+d4c20c0ef34be2c785300b67d4a60dae,"..è la #CuraDelFerro
+
+Quoted Tweet:
+@InfoAtac ma perché sono sospesi i tram da porta maggiore verso centocelle e fino a quando?",True,tram,service_suspension,none,False,True,,,,,Porta Maggiore|Centocelle,3,medium,0.86,Chiede fino a quando sono sospesi i tram tra Porta Maggiore e Centocelle.,ma perché sono sospesi i tram da porta maggiore verso centocelle e fino a quando?
+d24c5250c9ec2a95797ea734391349cc,"Solo 1 UN romano su 10 usa i mezzi pubblici..chissà perché
+
+Quoted Tweet:
+@InfoAtac perché il 791 salta continuamente le corse? Sto aspettando a Bel Respiro e l'autobus che doveva arrivare ovviamente non è monitorato. Ovviamente non è passato. 
+È una delle linee più frequentate del quadrante!! È dato sapere quando passerà un autobus?",True,bus,ghost_bus,telemetry_blackout,True,True,791,,Bel Respiro,,,4,high,0.78,Linea 791 salta continuamente: l’autobus non arriva e non risulta monitorato mentre l’utente attende a Bel Respiro.,Sto aspettando a Bel Respiro e l'autobus che doveva arrivare ovviamente non è monitorato. Ovviamente non è passato.
+f843da48b09bf39af95b4eee60d06007,"ma il Comune di #Roma anziché far risolvere questi problemi, BUTTA MLN€ di fondi pubblici nel #MaaS 
+@CorteContiPress
+ 
+@InnovazioneGov
+ 
+@mitgov_it
+ 
+@antitrust_it
+
+Quoted Tweet:
+@infoatsc @MercurioPsi vettura 3118 in servizio su linea 49 transitata ora a 73289 Provenzake/Maffi non  monitorata da app e sito ATAC",True,bus,missing_realtime_data,telemetry_blackout,True,False,49,,,Provenzake/Maffi,,3,medium,0.74,Un mezzo della linea 49 risulta in servizio ma non risulta monitorato dall’app e dal sito ATAC.,"""non monitorata da app e sito ATAC"""
+a5eedd53cd6076915e7a2f3270392736,"Buon #lunedìsagio con #ATAC
+
+Quoted Tweet:
+Corsa delle ore 7:07 linea 558 direzione Cinecittà non pervenuta, ricomincia a giocare anche tu a salta, posticipa o anticipa le corse a tuo piacimento. Fate ride @InfoAtac @gualtierieurope @eugenio_patane",True,bus,bus_no_show,terminus_or_out_of_service_confusion,True,True,558,,,,Cinecittà,4,medium,0.78,Linea 558 prevista alle 7:07 in direzione Cinecittà non è arrivata (non pervenuta).,"""Corsa delle ore 7:07 linea 558 direzione Cinecittà non pervenuta"""
+00bf26ac478e861f5c06524ae23faf1d,"#CuraDelFerro #ATAC #Roma
+
+Quoted Tweet:
+@InfoAtac 71016 situazione del 19? Non si vede niente da 30 minuti e app non mi da niente",True,bus,missing_realtime_data,telemetry_blackout,True,False,,71016,,,,4,high,0.78,Su InfoAtac non viene visualizzato nulla per 30 minuti e l’app non fornisce informazioni per la situazione del 71016.,Non si vede niente da 30 minuti e app non mi da niente
+3acf7cbd272f4180baf1e0dd34eddf76,"il #bus 80 dovrebbe passare max ogni 10 minuti, in quanto linea Express.. in piena crisi energetica, con il ""trasporto pubblico"" raccomandato al top dall'OCSE, questa è la situazione a #Roma
+
+Quoted Tweet:
+@AtacNews @gualtierieurope 
+Fermata via Boncompagni 
+73518 direzione porta di Roma
+35 minuti per l’80 arrivato stracolmo!impossibile entrare!
+Che abbiamo deciso?
+VERGOGNA!!!",True,bus,overcrowding,none,False,True,80,,via Boncompagni|Fermata via Boncompagni,,porta di Roma,4,medium,0.72,Bus 80 arrivato dopo circa 35 minuti e troppo affollato per entrare alla fermata di via Boncompagni.,73518 direzione porta di Roma 35 minuti per l’80 arrivato stracolmo!impossibile entrare!
+0da503a6776f3a4aff1307ab962d391b,"Con tutte le navette sostitutive #tram e oggi anche #MetroB, #ATAC non avrà i #bus per il servizio ordinario.. quanto è ""normale"" questa situazione?
+
+Quoted Tweet:
+@InfoAtac ma c’è qualche sciopero oggi? Sono alla fermata Crociate (74304) da quasi 20 minuti ed è passato solo un 490 strapieno. Basta, nient’altro. Poi due-tre autobus deposito/niente scritta",True,bus,ghost_bus,physical_disconnect_ghost,True,True,490,74304,,,,4,high,0.86,"Alla fermata Crociate/ID 74304 dopo quasi 20 minuti passa solo un 490 strapieno e poi nessun altro bus, con indicazioni di mancanza di servizio ordinario oltre alle navette sostitu","Sono alla fermata Crociate (74304) da quasi 20 minuti ed è passato solo un 490 strapieno. Basta, nient’altro. Poi due-tre autobus deposito/niente scritta"
+958f7c36fb22ef698c506fd397969fc7,"""Voltiamo pagina definitivam anche sul servizio di trasporto pubblico periferico"" cit. ago.2024, 19 mesi fa
+
+Quoted Tweet:
+@InfoAtac Oggi il 552 direzione Policlinico ha saltato 4 corse. Da Romanisti/Torre Spaccata alle 9.47, 10.03, 10.16, 10.29
+Anche ieri verso lo stesso orario aveva saltato delle corse",True,bus,bus_no_show,none,False,True,552,,,Torre Spaccata|Policlinico,,5,medium,0.72,Il bus 552 per la direzione Policlinico avrebbe saltato 4 corse in più fasce orarie.,“Oggi il 552 direzione Policlinico ha saltato 4 corse… Da Romanisti/Torre Spaccata…”
+15fc6fa291631a5435986b2c48a0f2bb,"#CuraDelFerro #ATAC #Roma
+
+Quoted Tweet:
+@InfoAtac ma che sta succedendo ai tram?? Non é possibile aspettare sempre mezz’ora! Sono alla fermata 70831 e non passa nessun tram.",True,tram,ghost_bus,physical_disconnect_ghost,True,True,,70831,,,,4,high,0.78,"Alla fermata indicata non passa nessun tram e si segnala disservizio ripetuto, con possibile mancata corrispondenza tra informazione e servizio.",Sono alla fermata 70831 e non passa nessun tram.
+15fae8eed79f7b9f516085c9e8a8ea42,"Ennesima ulteriore proroga dei lavori al Parco del Celio, iniziati il 12 gennaio: linea #tram 3 limitata, linea #tram 8 interam. sostituita da #bus
+
+ fino a cessate esigenze
+
+(2 mesi e 1/2 finora) #Roma",True,tram,service_suspension,none,False,True,tram 3|tram 8|bus,,,Parco del Celio,Parco del Celio|Parco del Celio,4,medium,0.74,"Lavori al Parco del Celio: tram 3 limitata, tram 8 interam; sostituzione con bus.","linea #tram 3 limitata, linea #tram 8 interam. sostituita da #bus"
+fac4f924b9630789ba35d3db89cf0f9d,"9 romani su 10 NON usano i mezzi pubblici..chissà perché
+
+Quoted Tweet:
+@InfoAtac perché é da più di 40 minuti che aspetto il 20 direzione cambellltti alla fermata 78579",True,bus,delay,none,False,True,20,78579,,,,5,high,0.78,Attesa di oltre 40 minuti per il bus 20 alla fermata 78579 senza arrivo.,"""è da più di 40 minuti che aspetto il 20 direzione ... alla fermata 78579"""
+4adea774dc367f3fc1e89bfb22180ecb,"#CuraDelFerro #ATAC #Roma
+
+Quoted Tweet:
+@InfoAtac  buonasera problemi con il tram 5? Alla fermata di Napoleone III sono più di 20 minuti che non passa",True,tram,delay,none,False,True,tram 5|5,,Napoleone III,,,3,high,0.74,Al capolinea/fermata Napoleone III il tram 5 non passa da oltre 20 minuti.,Alla fermata di Napoleone III sono più di 20 minuti che non passa
+18b83be11f5d8ffba174b60b3ea70ebf,"#Roma Via Nazareth incrocio Boccea poco fa, #bus linea 906 #ATAC matr. 2102, ferma, fa scendere tutti e #FuoriServizio 
+
+FUMO e perdita di fluidi dalla parte posteriore
+
+
+@vigilidelfuoco
+ 
+@ART_Trasporti
+ 
+@Prefettura_Roma",True,bus,breakdown,none,False,True,906,,,Via Nazareth|Boccea,,4,medium,0.82,Bus 906 interrotto a causa di guasto/fuori servizio con fumo e perdita di fluidi; passeggeri fatti scendere.,"#bus linea 906 #ATAC ... ferma, fa scendere tutti e #FuoriServizio. FUMO e perdita di fluidi..."
+2986ca9085bde5edefd4223a6c3b73a9,"""Al centro il trasporto pubblico è di ELEVATA QUALITÀ"" cit.
+
+Quoted Tweet:
+@InfoAtac linea 781. Capolinea piazza Venezia. In attesa da un'ora.",True,bus,delay,none,False,True,781,,,,piazza Venezia,5,medium,0.72,In attesa da un'ora per la linea 781 al capolinea di piazza Venezia.,"""InfoAtac linea 781. Capolinea piazza Venezia. In attesa da un'ora."""
+cb5ebc95438bdc95d8e29cd6c6c90734,"@antitrust_it
+ #ATAC #Roma
+
+Quoted Tweet:
+Chiedo scusa @InfoAtac : sono le 08:38, i percorsi dei bus verso il centro sono già deviati per le cerimonie del 17 marzo e il vostro ultimo ""aggiornamento"" risale a 23 ore fa, senza alcuna notizia delle deviazioni. Che servizio è questo? @MercurioPsi",True,bus,missing_realtime_data,telemetry_blackout,True,False,,,,centro,cerimonie del 17 marzo,4,medium,0.74,InfoAtac non aggiorna da 23 ore e non comunica le deviazioni dei bus verso il centro per le cerimonie del 17 marzo.,"il vostro ultimo ""aggiornamento"" risale a 23 ore fa, senza alcuna notizia delle deviazioni"
+c8549754eafcca3653ed1f68c7d0253b,"@InfoAtac
+ ore 18.30 piazza Venezia in attesa del #60 da 20 min . Banchina colma e 4 autobus fermi fuori servizio. Ma quale è il problema di questa linea?
+@MercurioPsi",True,bus,delay,none,False,True,60,,,piazza Venezia,Piazza Venezia,4,medium,0.74,Attesa prolungata per il bus 60 con fermate congestionate e più autobus fuori servizio.,ore 18.30 piazza Venezia in attesa del #60 da 20 min . Banchina colma e 4 autobus fermi fuori servizio
+a58cf03f7578f51309e155ef9d8d695f,"#CodiceEtico #ATAC #Roma
+
+Quoted Tweet:
+Palina 71030
+
+È passato ora il bus 105, alcuni Utenti in attesa e nonostante il segno con il braccio non si è fermato.
+
+@InfoAtac @TUTraP_APS @romamobilita",True,bus,bus_no_show,unclear,True,True,105,,,,Palina 71030,3,medium,0.72,"Alla fermata indicata il bus 105 risulta passato, ma non si è fermato nonostante i passeggeri abbiano segnalato",È passato ora il bus 105... nonostante il segno con il braccio non si è fermato
+e6de0af030c30fa9f1724dc665e5b6e5,"@InfoAtac
+ buongiorno, sono a tiburtina, sono le 8 di mattina di un giorno feriale, piove, e indovinate un po'? Il 490 non c'è. Segnalato in arrivo un quarto d'ora fa,  è sparito. Si aspetta il successivo che arriva e non si posiziona nello stallo lasciando la fila in attesa.",True,bus,ghost_bus,physical_disconnect_ghost,True,True,490,,,Tiburtina,,4,medium,0.84,A Tiburtina il bus 490 non arriva: l’app/InfoAtac lo segnala in arrivo ma “sparisce”.,"""sono a tiburtina... Il 490 non c'è. Segnalato in arrivo... è sparito"""
+0ddc5f3ba1a49b54d1e651470b3b4185,"@InfoAtac
+ il 910 che parte da Piazza Mancini sono diversi giorni che salta la corsa che alle 8.18 deve passare a melozzo da Forlí,perchè?
+
+@MercurioPsi
+ 
+@iltrenoromalido
+ 
+@QuinziUgo",True,bus,bus_no_show,none,False,True,910,,Piazza Mancini|Melozzo da Forlì,,,5,medium,0.72,"Il bus 910 in partenza da Piazza Mancini salta più giorni, non effettuando la corsa prevista alle 8:18 (passaggio a Melozzo da Forlí).","""il 910 che parte da Piazza Mancini sono diversi giorni che salta la corsa che alle 8.18 deve passare a melozzo da Forlí"""
+8e9a09b6301f35547abdbe4d1e65cc76,"Ha senso continuare così 
+#CuraDelFerro #ATAC #Roma
+
+Quoted Tweet:
+@InfoAtac 3 bloccato a scalo San Lorenzo direzione porta maggiore con vetro spaccato e blocca tutto. Magari avvertite che c’è gente che aspettava a porta maggiore",True,bus,out_of_service,none,False,True,,,Scalo San Lorenzo|Porta Maggiore,,,4,high,0.78,"Blocchi di servizio dovuti a un mezzo con vetro spaccato che si trova a Scalo San Lorenzo verso Porta Maggiore, causando rallentamenti e impedimenti per i passeggeri.",3 bloccato a scalo San Lorenzo direzione porta maggiore con vetro spaccato e blocca tutto
+323fd4629c903d2c5dc5318eb99c85ed,"Continuano le segnalazioni sul 60 #ATAC e Largo Pugliese.. ma sicuram Vittorio non usa i mezzi pubblici
+
+Quoted Tweet:
+@InfoAtac ore 7.20 l.go pugliese con attesa del #60 da più di 10 min! Banchina colma. Ci sono 2 vetture (3002) e (?) ferme. Perché non partono?@MercurioPsi",True,bus,ghost_bus,physical_disconnect_ghost,True,True,60,,,Largo Pugliese,,4,medium,0.78,"Segnalato #60 fermo alla banchina con attesa >10 minuti e vetture che non partono, con riferimento a quanto mostrato/gestito da InfoAtac.","""attesa del #60 da più di 10 min! Banchina colma. Ci sono 2 vetture (3002) e (?) ferme. Perché non partono?"""
+75430222f5f1a9f3e5118b0963b91575,"ulteriore PROROGA ai lavori di sostituzione #binari a Parco del Celio (iniziati il 12 gennaio)
+
+Modifiche #tram 3 e 8
+
+#CuraDelFerro #Roma",True,tram,service_suspension,unclear,True,True,tram 3|tram 8,,,Parco del Celio,,4,medium,0.78,Proroga dei lavori ai binari e modifiche alle linee tram 3 e 8 in zona Parco del Celio.,ulteriore PROROGA ai lavori di sostituzione #binari a Parco del Celio ... Modifiche #tram 3 e 8
+40d38929a67a3bd4479037762c9351af,"i risultati di 3 anni di ""ENORME LAVORO per cambiare la faccia del trasporto pubblico romano"" cit. #ATAC
+
+Quoted Tweet:
+@InfoAtac è dalle 15.10 che aspetto 870 alla fermata trullo/campagnatico. Ce ne sono 2 a piazza Mosca...che dobbiamo fare?",True,bus,ghost_bus,identifier_or_route_mismatch,True,True,870,,,Trullo|Campagnatico|Piazza Mosca,,5,medium,0.72,"Segnalato che il bus 870 è da oltre un’ora in attesa alla fermata Trullo/Campagnatico, con indicazioni di più mezzi altrove (Piazza Mosca), ma la situazione non è risolta.","""è dalle 15.10 che aspetto 870 alla fermata trullo/campagnatico. Ce ne sono 2 a piazza Mosca"""
+a11f8ed09fbc72e5fe0c86f2d234e170,"#CuraDelFerro #ATAC #Roma
+
+Quoted Tweet:
+@InfoAtac sul tram 8 ora, direzione piazza venezia. Andava a finire che mi pagavate come nuova. Si è staccato un pezzo del tram
+#atac #trasporti #roma #traffico",True,tram,breakdown,none,False,True,tram 8,,,piazza Venezia,piazza Venezia,4,medium,0.74,Segnalato che sul tram 8 si è staccato un pezzo del mezzo durante la corsa.,Si è staccato un pezzo del tram
+3dc846f27d8aab2b7aabcaca35f02476,"@InfoAtac
+ 
+@MercurioPsi
+ ore 19 piazza Venezia in attesa del 60 da 20 min!!!!",True,bus,delay,none,False,True,60,,,piazza Venezia,piazza Venezia,3,medium,0.78,A Piazza Venezia sono in attesa del bus 60 da 20 minuti.,ore 19 piazza Venezia in attesa del 60 da 20 min!!!!
+7a83e56ed1bc8bd500a838c84f01f45f,"@InfoAtac
+ bus 32 aspettato mezz'ora a viale Angelico, partito alle 8:30 con le persone stipate come sardine e decine di persone a terra, lascio immaginare alle fermate successive. Questo non è un servizio pubblico. Figuriamoci da capitale europea 
+@MercurioPsi",True,bus,overcrowding,none,False,True,32,,,Viale Angelico,,5,medium,0.72,Bus 32 troppo affollato (persone stipate e decine a terra) dopo partenza alle 8:30 da Viale Angelico.,"""bus 32 aspettato mezz'ora a viale Angelico, partito alle 8:30 con le persone stipate come sardine e decine di persone a terra"""
+487ec8771d9adcdf81379e437175a54c,"#CuraDelFerro #ATAC #Roma dopo 52 mesi di propaganda
+
+Quoted Tweet:
+Dove sono i tram 3 e 19?? Non passa nessuno da mezz’ora su viale Liegi. È una vergogna! @InfoAtac @eugenio_patane @romamobilita @OQuotidianaBlog",True,tram,ghost_bus,physical_disconnect_ghost,True,True,tram 3|tram 19,,,viale Liegi,,4,medium,0.72,Il tweet segnala che i tram 3 e 19 non transitano da circa mezz’ora su viale Liegi.,"""Dove sono i tram 3 e 19?? Non passa nessuno da mezz’ora su viale Liegi."""
+b8c84e82bbf6828a9f12e524cc43f561,"Continuano numerose le segnalazioni di #bus #ATAC in servizio sulle app, ma #FuoriServizio nella realtà
+
+Quand'è che qualcuno inizierà a indagare, spiegare, risolvere?
+
+
+@CorteContiPress
+ #Roma 
+@ART_Trasporti
+ 
+@antitrust_it
+ 
+@TUTraP_APS
+ 
+@spitella
+
+Quoted Tweet:
+@InfoAtac la linea 33 vettura 3131 risulta normalmente in servizio mentre nella realtà è passata da Valle Aurelia con la scritta ATAC fuori servizio e senza fermarsi. Inutile fare app di rimborsi se poi fate circolare linee fantasma. Un po' di onestà e rispetto x l'utenza...",True,bus,ghost_bus,physical_disconnect_ghost,True,True,33,,,Valle Aurelia,,4,medium,0.78,"InfoAtac mostra la linea 33 come in servizio, ma il veicolo risulterebbe passato senza fermarsi e indicato fuori servizio.","""la linea 33 vettura 3131 risulta normalmente in servizio"" mentre ""nella realtà è passata da Valle Aurelia con la scritta ATAC fuori servizio e senza fermarsi"""
+1ceb1db770feee3461a506116754d242,"Quando aspetti l 870 alla fermata Paola e la mitica app di 
+@InfoAtac
+ lo da in arrivo da piu' di mezz'ora.  Nel frattempo passa solo il nulla cosmico 
+@MercurioPsi",True,bus,wrong_eta,latency_or_stale_prediction,True,False,870,,Paola,,,4,high,0.86,"L’app InfoAtac segnala il bus 870 in arrivo da oltre mezz’ora, ma alla fermata passa solo il nulla.",“Quando aspetti l 870 alla fermata Paola… lo da in arrivo da piu' di mezz'ora… Nel frattempo passa solo il nulla cosmico”
+93164b3485fbf5a42e9cb33719af0b68,"Dossier da me consegnato all'Assessore 40 mesi fa
+
+""fuori la stazione Termini va messo un unico grande display elettronico con tutte le prossime partenze #BUS delle varie linee, un dato essenziale oggi impossibile da sapere, perché ogni capolinea ha un codice diverso""
+
+ZERO
+
+Quoted Tweet:
+@romamobilita @InfoAtac  è prevista l'installazione di un display elettronico per P. dei Cinquecento, all'interno o appena all'esterno della stazione, che indichi il numero dello stallo e tra quanti minuti partirà quale bus? È ancora troppo difficile andare per tentativi.",True,mixed,missing_realtime_data,missing_realtime_information,True,False,,,Termini|P. dei Cinquecento,,stazione Termini|P. dei Cinquecento,2,medium,0.78,"Allo stato attuale la stazione Termini non fornisce in modo affidabile le prossime partenze dei bus (display necessario, ma i dati risultano “impossibili da sapere”).",“fuori la stazione Termini … un unico grande display elettronico … un dato essenziale oggi impossibile da sapere”
+a2d9fa45d8c6c483c9e6787f58f51f24,"È l'anno sottoZERO della mobilità a #Roma
+
+Quoted Tweet:
+@InfoAtac e dopo UN’ORA di attesa arriva bus 32 a fermata 70008. Ma si può sapere che succede?!?",True,bus,delay,none,False,True,32,70008,,,,4,high,0.88,Bus 32 arrivato dopo un'ora alla fermata 70008.,dopo UN’ORA di attesa arriva bus 32 a fermata 70008
+508e7595e178211d4c1c539f3671f5ec,"ovviam hanno risposto così come è passato il #bus..
+
+Quoted Tweet:
+@InfoAtac salve sono alla fermata 72552 da mezz'ora. Potreste darmi indicazioni sulla prossima partenza del 911 direzione Mancini? Sembrano saltate almeno 3 corse",True,bus,bus_no_show,missing_realtime_information,True,True,911,72552,,,Mancini,4,high,0.9,Alla fermata 72552 mancano indicazioni sulla partenza del 911; sembrano saltate tre corse.,fermata 72552 da mezz'ora ... 911 direzione Mancini
+471a2ed9f6400f51da2328afd45d8f4a,"Ricominciamo anche quest'anno 2026 Elenco #tram Cityway (FIAT) con a/c NON funzionante: 9101 NOTA: il 100% dei #tram modello Socimi (anni '90) e Stanga (anni '40) NON hanno proprio a/c, ma almeno i finestrini sono apribili
+
+Quoted Tweet:
+Tram fiat - Direzione Stazione Trastevere - Matr. 9101 senza aria condizionata. Assurdo.",True,tram,breakdown,none,False,True,,,,,Stazione Trastevere,3,medium,0.82,Tram Cityway 9101 verso Stazione Trastevere senza aria condizionata.,Matr. 9101 senza aria condizionata
+997db697320627da979dee8001685eca,"Se qualcuno ha il monitoraggio della rete #bus attivo...si tratta di ""sparizioni"" coi primi caldi (pissibile causa: #bus senza a/c) o solo una ""normale"" anomalia puntuale? @iencenelli
+
+Quoted Tweet:
+Non è solo il 69!! @MercurioPsi @battaglia_persa qui uscita metro jonio",True,bus,ghost_bus,telemetry_blackout,True,True,69,,Jonio,,,4,medium,0.84,"Discussione su sparizioni nella rete bus, con riferimento al 69 e uscita metro Jonio.",sparizioni ... Non è solo il 69 ... uscita metro jonio
+a4743ac81a97e56e08bfd4bef1355aa8,"Come facevano a prevedere che a fine maggio sarebbe arrivato il caldo #tram con finestroni bloccati
+
+Quoted Tweet:
+@InfoAtac tram 8 vettura 9249 da Piazza Venezia a Casaletto non funziona l'aria condizionata che però risulta accesa. Un forno",True,tram,breakdown,terminus_or_out_of_service_confusion,True,True,8,,,,Piazza Venezia|Casaletto,3,medium,0.86,Tram 8 vettura 9249 senza aria condizionata anche se risulta accesa.,non funziona l'aria condizionata che però risulta accesa
+e182431159459f2ea2197511a61f7c1f,@Atacroma @MercurioPsi #atac #roma siamo in venti a piazzale Clodio sotto il sole che stiamo aspettando da mezz'ora il 69!! Che schifo di servizio!,True,bus,delay,none,False,True,69,,,piazzale Clodio,,4,medium,0.9,Attesa di mezz'ora per il bus 69 a piazzale Clodio.,piazzale Clodio ... aspettando da mezz'ora il 69

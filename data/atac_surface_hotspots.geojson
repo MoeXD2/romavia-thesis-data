@@ -1,0 +1,707 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.528137,
+          41.909832
+        ]
+      },
+      "properties": {
+        "tweet_id": "7f3fce89f8ae921716074fcb72913525",
+        "text": "Ah, le 2 linee #bus più frequenti di #Roma: Deposito e #FuoriServizio\n\nQuoted Tweet:\n@InfoAtac prossima partenza linea 62 da stazione Tiburtina? Saltata corsa delle 11.51. Il bus è arrivato, ha fatto scendere le persone ed è andato via con scritta DEPOSITO, seguito da un FUORI SERVIZIO",
+        "matched_stop_id": "30816",
+        "matched_stop_code": "30816",
+        "matched_stop_name": "STAZ.NE TIBURTINA (MB)",
+        "match_method": "stop_name_fuzzy",
+        "mode": "bus",
+        "complaint_type": "out_of_service",
+        "information_failure_type": "terminus_or_out_of_service_confusion",
+        "mentions_information_failure": true,
+        "severity": 5,
+        "classification_confidence": 0.72,
+        "spatial_confidence": "high",
+        "routes": "62",
+        "evidence_phrase": "\"prossima partenza linea 62 da stazione Tiburtina? Saltata corsa delle 11.51. Il bus è arrivato... ed è andato via con scritta DEPOSITO, seguito da un FUORI SERVIZIO\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.529438,
+          41.940028
+        ]
+      },
+      "properties": {
+        "tweet_id": "01fbe884caa38c088762d59d5af5fc81",
+        "text": "@InfoAtac\n  ingressi metro a Conca d'Oro chiusi. Mezzi di superficie spariti. In breve non so come tornare a casa. Ah, ma ce la ciclabile qui, che stupida...",
+        "matched_stop_id": "71576",
+        "matched_stop_code": "71576",
+        "matched_stop_name": "CONCA D'ORO (MB1)",
+        "match_method": "stop_name_exact",
+        "mode": "mixed",
+        "complaint_type": "ghost_bus",
+        "information_failure_type": "physical_disconnect_ghost",
+        "mentions_information_failure": true,
+        "severity": 5,
+        "classification_confidence": 0.74,
+        "spatial_confidence": "medium",
+        "routes": "",
+        "evidence_phrase": "\"ingressi metro a Conca d'Oro chiusi. Mezzi di superficie spariti.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4449,
+          41.89566
+        ]
+      },
+      "properties": {
+        "tweet_id": "533d4e3d9199decac5ea57d3f1f87937",
+        "text": "@InfoAtac\n è da mesi che sta così (la banda nera è un difetto di fotografia) e non si vedono le info sulle linee\nFermata 71062 Gregorio VII San Damaso\n.\n\n@QuinziUgo\n \n@MercurioPsi\n \n@Antincivili",
+        "matched_stop_id": "71062",
+        "matched_stop_code": "71062",
+        "matched_stop_name": "GREGORIO VII/S. DAMASO",
+        "match_method": "stop_id_exact",
+        "mode": "bus",
+        "complaint_type": "missing_realtime_data",
+        "information_failure_type": "missing_realtime_information",
+        "mentions_information_failure": true,
+        "severity": 3,
+        "classification_confidence": 0.78,
+        "spatial_confidence": "high",
+        "routes": "",
+        "evidence_phrase": "e non si vedono le info sulle linee. Fermata 71062 Gregorio VII San Damaso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.553862,
+          41.946303
+        ]
+      },
+      "properties": {
+        "tweet_id": "45a5fb71d605ac146c82f25156525d67",
+        "text": "Banalmente, se c'è una causa PERMANENTE che allunga i tempi di percorrenza, su una linea essenziale Express come il 60, #ATAC dovrebbe mettere dei #bus in più. È l'ABC..\n\nQuoted Tweet:\nOggi ho aspettato 30 minuti al capolinea #largopugliese !! Gli autisti del #60 hanno detto che è a causa dei lavori a #PiazzaVenezia. E quindi staremo così fino al 2033?\n@InfoAtac @MercurioPsi @OQuotidianaBlog @romamobilita",
+        "matched_stop_id": "71527",
+        "matched_stop_code": "71527",
+        "matched_stop_name": "LGO PUGLIESE",
+        "match_method": "stop_name_fuzzy",
+        "mode": "bus",
+        "complaint_type": "delay",
+        "information_failure_type": "unclear",
+        "mentions_information_failure": true,
+        "severity": 4,
+        "classification_confidence": 0.72,
+        "spatial_confidence": "medium",
+        "routes": "60",
+        "evidence_phrase": "\"ho aspettato 30 minuti al capolinea #largopugliese\" ... \"è a causa dei lavori a #PiazzaVenezia\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.515663,
+          41.964892
+        ]
+      },
+      "properties": {
+        "tweet_id": "29f6fa98926c3b3aff2e45cc3cecb1a6",
+        "text": "#Roma riconfermata per il PEGGIOR trasporto pubblico d'Europa\n\nQuoted Tweet:\n@InfoAtac ora è un'ora e 30 minuti che attendiamo l'88 direzione Verano alla fermata Cavalieri/Pasquariello. È previsto che passi o bisogna cercare altri mezzi per muoversi?",
+        "matched_stop_id": "73794",
+        "matched_stop_code": "73794",
+        "matched_stop_name": "CAVALIERI/PASQUARIELLO",
+        "match_method": "stop_name_exact",
+        "mode": "bus",
+        "complaint_type": "delay",
+        "information_failure_type": "none",
+        "mentions_information_failure": false,
+        "severity": 5,
+        "classification_confidence": 0.78,
+        "spatial_confidence": "high",
+        "routes": "88",
+        "evidence_phrase": "\"ora è un'ora e 30 minuti che attendiamo l'88 direzione Verano alla fermata Cavalieri/Pasquariello\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.436982,
+          41.843265
+        ]
+      },
+      "properties": {
+        "tweet_id": "db191dd42fd410cc7f0beadfc1d108d2",
+        "text": "..e il Comune butta MLN€ f9ndi pubblici nel #MaaS, anziché risolvere PRIMA i problemi di monitoraggio GPS/AVM \n@CorteContiPress\n\nQuoted Tweet:\n@InfoAtac vettura 2897  del  719 transistata sa poco alla fermata 74650 e non monitorata. A voi sembrerà sciocco, ma per chi ha orari serrati poter sapere quando passano i bus con affidabilità è importante",
+        "matched_stop_id": "74650",
+        "matched_stop_code": "74650",
+        "matched_stop_name": "TRULLO/CAMPAGNATICO",
+        "match_method": "stop_id_exact",
+        "mode": "bus",
+        "complaint_type": "missing_realtime_data",
+        "information_failure_type": "telemetry_blackout",
+        "mentions_information_failure": true,
+        "severity": 3,
+        "classification_confidence": 0.78,
+        "spatial_confidence": "high",
+        "routes": "719",
+        "evidence_phrase": "\"InfoAtac vettura 2897 del 719 transistata ... a poco alla fermata 74650 e non monitorata\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.557917,
+          41.894673
+        ]
+      },
+      "properties": {
+        "tweet_id": "0ffb739a9f57595909bef0a14acd80b7",
+        "text": "#CuraDelFerro #ATAC #Roma\n\nQuoted Tweet:\n@InfoAtac non passa il 5 alla fermata 71007? È 40 minuti che aspetto.",
+        "matched_stop_id": "71007",
+        "matched_stop_code": "71007",
+        "matched_stop_name": "PRENESTINA/TOR DE' SCHIAVI",
+        "match_method": "stop_id_exact",
+        "mode": "bus",
+        "complaint_type": "ghost_bus",
+        "information_failure_type": "physical_disconnect_ghost",
+        "mentions_information_failure": true,
+        "severity": 3,
+        "classification_confidence": 0.82,
+        "spatial_confidence": "high",
+        "routes": "",
+        "evidence_phrase": "\"non passa il 5 alla fermata 71007? È 40 minuti che aspetto.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.516572,
+          41.890512
+        ]
+      },
+      "properties": {
+        "tweet_id": "3ed4e16262f59931151503cb07904a89",
+        "text": "il \"potenziamento\" della linea #bus 105..\n\nQuoted Tweet:\n@InfoAtac scusate ma il 105 verso parco di Centocelle, fermata Casilina labicano sta veramente tra 28 minuti? Follia spero non sia così e ce ne sia anche un altro magari non segnato sull’app",
+        "matched_stop_id": "71665",
+        "matched_stop_code": "71665",
+        "matched_stop_name": "CASILINA/P.LE LABICANO",
+        "match_method": "stop_name_fuzzy",
+        "mode": "bus",
+        "complaint_type": "wrong_eta",
+        "information_failure_type": "latency_or_stale_prediction",
+        "mentions_information_failure": true,
+        "severity": 5,
+        "classification_confidence": 0.78,
+        "spatial_confidence": "medium",
+        "routes": "105",
+        "evidence_phrase": "\"il 105 verso parco di Centocelle, fermata Casilina labicano sta veramente tra 28 minuti?\" ... \"non segnato sull’app\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.434508,
+          41.899107
+        ]
+      },
+      "properties": {
+        "tweet_id": "2fb87d6f9d752bda6e323c98ed8c0852",
+        "text": "Buon pomeriggio, vi segnalo che a Baldo degli Ubaldi la 2a e unica scala mobile accessibile in uscita dir. Piazza Irnerio (la più lunga) sia ferma. \nGli utenti non meritano questo trattamento, la gente arriva in cima piegata sulle gambe e sofferente \n@InfoAtac\n \n@MercurioPsi",
+        "matched_stop_id": "AD3",
+        "matched_stop_code": "AD3",
+        "matched_stop_name": "Baldo Degli Ubaldi",
+        "match_method": "stop_name_exact",
+        "mode": "mixed",
+        "complaint_type": "service_suspension",
+        "information_failure_type": "none",
+        "mentions_information_failure": false,
+        "severity": 5,
+        "classification_confidence": 0.74,
+        "spatial_confidence": "medium",
+        "routes": "",
+        "evidence_phrase": "a Baldo degli Ubaldi la 2a e unica scala mobile accessibile in uscita dir. Piazza Irnerio ... sia ferma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47568,
+          41.912152
+        ]
+      },
+      "properties": {
+        "tweet_id": "7caaf120099e3fd06d108ed824edabc8",
+        "text": "ore 18:47 \"come mai il 2 a Flaminio è previsto tra 19 min? E siamo qui da 10’\"\n\nore  19:34 \"bus in arrivo\" #ATAC\n\nQuanto avrà aspettato\n\nQuoted Tweet:\n@InfoAtac come mai il 2 a Flaminio è previsto tra 19 min? E siamo qui da 10’",
+        "matched_stop_id": "81153",
+        "matched_stop_code": "81153",
+        "matched_stop_name": "FLAMINIO",
+        "match_method": "stop_name_exact",
+        "mode": "bus",
+        "complaint_type": "wrong_eta",
+        "information_failure_type": "latency_or_stale_prediction",
+        "mentions_information_failure": true,
+        "severity": 5,
+        "classification_confidence": 0.72,
+        "spatial_confidence": "medium",
+        "routes": "2",
+        "evidence_phrase": "“come mai il 2 a Flaminio è previsto tra 19 min? E siamo qui da 10’”"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51512,
+          41.891772
+        ]
+      },
+      "properties": {
+        "tweet_id": "63517d3debdcfd4eb459a2bdab2fb269",
+        "text": "#CuraDelFerro #ATAC #Roma\n\nQuoted Tweet:\n@InfoAtac scusate sono almeno 20 minuti che non parte il 3 da Porta Maggiore per Trastevere, eppure è sul binario pronto. Quando parte?",
+        "matched_stop_id": "90123",
+        "matched_stop_code": "90123",
+        "matched_stop_name": "PORTA MAGGIORE",
+        "match_method": "stop_name_exact",
+        "mode": "bus",
+        "complaint_type": "delay",
+        "information_failure_type": "none",
+        "mentions_information_failure": false,
+        "severity": 5,
+        "classification_confidence": 0.72,
+        "spatial_confidence": "medium",
+        "routes": "3",
+        "evidence_phrase": "\"sono almeno 20 minuti che non parte il 3 da Porta Maggiore per Trastevere, eppure è sul binario pronto\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.500433,
+          41.901308
+        ]
+      },
+      "properties": {
+        "tweet_id": "822423b93f674d7114e2ace3e5d44696",
+        "text": "Termini CHIUSA ma il problema è sia ESTERNO (probabile tubatura rotta), che INTERNO: #ATAC ha dato IN RITARDO e in modo APPROSSIMATIVO le informazioni, dicendo che era chiusa (GENERICAM) Termini, quindi TANTI hanno capito che era chiusa ANCHE per #MetroB \n\n@spitella\n \n@MaurizioSgroi",
+        "matched_stop_id": "05000",
+        "matched_stop_code": "05000",
+        "matched_stop_name": "TERMINI (MA-MB-FS)",
+        "match_method": "stop_name_exact",
+        "mode": "mixed",
+        "complaint_type": "service_suspension",
+        "information_failure_type": "unclear",
+        "mentions_information_failure": true,
+        "severity": 4,
+        "classification_confidence": 0.72,
+        "spatial_confidence": "high",
+        "routes": "MetroB|Metro",
+        "evidence_phrase": "“Termini CHIUSA ma… #ATAC ha dato IN RITARDO e in modo APPROSSIMATIVO le informazioni, dicendo che era chiusa … Termini, quindi TANTI hanno capito che era chiusa ANCHE per #MetroB”"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.510527,
+          41.88602
+        ]
+      },
+      "properties": {
+        "tweet_id": "3d8770d40ec00f7598f7d8bdcd7a0528",
+        "text": "vabbé..\n\nQuoted Tweet:\nRoma. Ore 08.40, San Giovanni: nessuna traccia del bus 51, 15 minuti di attesa per l'87. Prendo la metro: ci obbligano a scendere a Termini. Prendo il bus in via Nazionale. Tutto bloccato per il traffico in via Quattro Novembre @InfoAtac @eugenio_patane",
+        "matched_stop_id": "10004",
+        "matched_stop_code": "10004",
+        "matched_stop_name": "SAN GIOVANNI (MA - MC)",
+        "match_method": "stop_name_exact",
+        "mode": "mixed",
+        "complaint_type": "delay",
+        "information_failure_type": "none",
+        "mentions_information_failure": false,
+        "severity": 5,
+        "classification_confidence": 0.72,
+        "spatial_confidence": "high",
+        "routes": "51|87",
+        "evidence_phrase": "“San Giovanni: nessuna traccia del bus 51, 15 minuti di attesa per l'87… Tutto bloccato per il traffico in via Quattro Novembre”"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.441265,
+          41.880303
+        ]
+      },
+      "properties": {
+        "tweet_id": "d24c5250c9ec2a95797ea734391349cc",
+        "text": "Solo 1 UN romano su 10 usa i mezzi pubblici..chissà perché\n\nQuoted Tweet:\n@InfoAtac perché il 791 salta continuamente le corse? Sto aspettando a Bel Respiro e l'autobus che doveva arrivare ovviamente non è monitorato. Ovviamente non è passato. \nÈ una delle linee più frequentate del quadrante!! È dato sapere quando passerà un autobus?",
+        "matched_stop_id": "72269",
+        "matched_stop_code": "72269",
+        "matched_stop_name": "BEL RESPIRO",
+        "match_method": "stop_name_exact",
+        "mode": "bus",
+        "complaint_type": "ghost_bus",
+        "information_failure_type": "telemetry_blackout",
+        "mentions_information_failure": true,
+        "severity": 4,
+        "classification_confidence": 0.78,
+        "spatial_confidence": "high",
+        "routes": "791",
+        "evidence_phrase": "Sto aspettando a Bel Respiro e l'autobus che doveva arrivare ovviamente non è monitorato. Ovviamente non è passato."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.542352,
+          41.892792
+        ]
+      },
+      "properties": {
+        "tweet_id": "00bf26ac478e861f5c06524ae23faf1d",
+        "text": "#CuraDelFerro #ATAC #Roma\n\nQuoted Tweet:\n@InfoAtac 71016 situazione del 19? Non si vede niente da 30 minuti e app non mi da niente",
+        "matched_stop_id": "71016",
+        "matched_stop_code": "71016",
+        "matched_stop_name": "PRENESTINA/ACQUA BULLICANTE",
+        "match_method": "stop_id_exact",
+        "mode": "bus",
+        "complaint_type": "missing_realtime_data",
+        "information_failure_type": "telemetry_blackout",
+        "mentions_information_failure": true,
+        "severity": 4,
+        "classification_confidence": 0.78,
+        "spatial_confidence": "high",
+        "routes": "",
+        "evidence_phrase": "Non si vede niente da 30 minuti e app non mi da niente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.526332,
+          41.908618
+        ]
+      },
+      "properties": {
+        "tweet_id": "0da503a6776f3a4aff1307ab962d391b",
+        "text": "Con tutte le navette sostitutive #tram e oggi anche #MetroB, #ATAC non avrà i #bus per il servizio ordinario.. quanto è \"normale\" questa situazione?\n\nQuoted Tweet:\n@InfoAtac ma c’è qualche sciopero oggi? Sono alla fermata Crociate (74304) da quasi 20 minuti ed è passato solo un 490 strapieno. Basta, nient’altro. Poi due-tre autobus deposito/niente scritta",
+        "matched_stop_id": "74304",
+        "matched_stop_code": "74304",
+        "matched_stop_name": "CROCIATE",
+        "match_method": "stop_id_exact",
+        "mode": "bus",
+        "complaint_type": "ghost_bus",
+        "information_failure_type": "physical_disconnect_ghost",
+        "mentions_information_failure": true,
+        "severity": 4,
+        "classification_confidence": 0.86,
+        "spatial_confidence": "high",
+        "routes": "490",
+        "evidence_phrase": "Sono alla fermata Crociate (74304) da quasi 20 minuti ed è passato solo un 490 strapieno. Basta, nient’altro. Poi due-tre autobus deposito/niente scritta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.539888,
+          41.892392
+        ]
+      },
+      "properties": {
+        "tweet_id": "15fc6fa291631a5435986b2c48a0f2bb",
+        "text": "#CuraDelFerro #ATAC #Roma\n\nQuoted Tweet:\n@InfoAtac ma che sta succedendo ai tram?? Non é possibile aspettare sempre mezz’ora! Sono alla fermata 70831 e non passa nessun tram.",
+        "matched_stop_id": "70831",
+        "matched_stop_code": "70831",
+        "matched_stop_name": "PRENESTINA/CONTI",
+        "match_method": "stop_id_exact",
+        "mode": "tram",
+        "complaint_type": "ghost_bus",
+        "information_failure_type": "physical_disconnect_ghost",
+        "mentions_information_failure": true,
+        "severity": 4,
+        "classification_confidence": 0.78,
+        "spatial_confidence": "high",
+        "routes": "",
+        "evidence_phrase": "Sono alla fermata 70831 e non passa nessun tram."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6276,
+          41.85436
+        ]
+      },
+      "properties": {
+        "tweet_id": "fac4f924b9630789ba35d3db89cf0f9d",
+        "text": "9 romani su 10 NON usano i mezzi pubblici..chissà perché\n\nQuoted Tweet:\n@InfoAtac perché é da più di 40 minuti che aspetto il 20 direzione cambellltti alla fermata 78579",
+        "matched_stop_id": "78579",
+        "matched_stop_code": "78579",
+        "matched_stop_name": "CAMBRIDGE/RESID. UNIVERSITARIA",
+        "match_method": "stop_id_exact",
+        "mode": "bus",
+        "complaint_type": "delay",
+        "information_failure_type": "none",
+        "mentions_information_failure": false,
+        "severity": 5,
+        "classification_confidence": 0.78,
+        "spatial_confidence": "high",
+        "routes": "20",
+        "evidence_phrase": "\"è da più di 40 minuti che aspetto il 20 direzione ... alla fermata 78579\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.500242,
+          41.897915
+        ]
+      },
+      "properties": {
+        "tweet_id": "4adea774dc367f3fc1e89bfb22180ecb",
+        "text": "#CuraDelFerro #ATAC #Roma\n\nQuoted Tweet:\n@InfoAtac  buonasera problemi con il tram 5? Alla fermata di Napoleone III sono più di 20 minuti che non passa",
+        "matched_stop_id": "71040",
+        "matched_stop_code": "71040",
+        "matched_stop_name": "NAPOLEONE III",
+        "match_method": "stop_name_exact",
+        "mode": "tram",
+        "complaint_type": "delay",
+        "information_failure_type": "none",
+        "mentions_information_failure": false,
+        "severity": 3,
+        "classification_confidence": 0.74,
+        "spatial_confidence": "high",
+        "routes": "tram 5|5",
+        "evidence_phrase": "Alla fermata di Napoleone III sono più di 20 minuti che non passa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.464602,
+          41.93084
+        ]
+      },
+      "properties": {
+        "tweet_id": "0ddc5f3ba1a49b54d1e651470b3b4185",
+        "text": "@InfoAtac\n il 910 che parte da Piazza Mancini sono diversi giorni che salta la corsa che alle 8.18 deve passare a melozzo da Forlí,perchè?\n\n@MercurioPsi\n \n@iltrenoromalido\n \n@QuinziUgo",
+        "matched_stop_id": "78016",
+        "matched_stop_code": "78016",
+        "matched_stop_name": "PIAZZA MANCINI",
+        "match_method": "stop_name_exact",
+        "mode": "bus",
+        "complaint_type": "bus_no_show",
+        "information_failure_type": "none",
+        "mentions_information_failure": false,
+        "severity": 5,
+        "classification_confidence": 0.72,
+        "spatial_confidence": "medium",
+        "routes": "910",
+        "evidence_phrase": "\"il 910 che parte da Piazza Mancini sono diversi giorni che salta la corsa che alle 8.18 deve passare a melozzo da Forlí\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.515937,
+          41.893033
+        ]
+      },
+      "properties": {
+        "tweet_id": "8e9a09b6301f35547abdbe4d1e65cc76",
+        "text": "Ha senso continuare così \n#CuraDelFerro #ATAC #Roma\n\nQuoted Tweet:\n@InfoAtac 3 bloccato a scalo San Lorenzo direzione porta maggiore con vetro spaccato e blocca tutto. Magari avvertite che c’è gente che aspettava a porta maggiore",
+        "matched_stop_id": "71293",
+        "matched_stop_code": "71293",
+        "matched_stop_name": "SCALO SAN LORENZO",
+        "match_method": "stop_name_exact",
+        "mode": "bus",
+        "complaint_type": "out_of_service",
+        "information_failure_type": "none",
+        "mentions_information_failure": false,
+        "severity": 4,
+        "classification_confidence": 0.78,
+        "spatial_confidence": "high",
+        "routes": "",
+        "evidence_phrase": "3 bloccato a scalo San Lorenzo direzione porta maggiore con vetro spaccato e blocca tutto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.465562,
+          41.900125
+        ]
+      },
+      "properties": {
+        "tweet_id": "1ceb1db770feee3461a506116754d242",
+        "text": "Quando aspetti l 870 alla fermata Paola e la mitica app di \n@InfoAtac\n lo da in arrivo da piu' di mezz'ora.  Nel frattempo passa solo il nulla cosmico \n@MercurioPsi",
+        "matched_stop_id": "72442",
+        "matched_stop_code": "72442",
+        "matched_stop_name": "PAOLA",
+        "match_method": "stop_name_exact",
+        "mode": "bus",
+        "complaint_type": "wrong_eta",
+        "information_failure_type": "latency_or_stale_prediction",
+        "mentions_information_failure": true,
+        "severity": 4,
+        "classification_confidence": 0.86,
+        "spatial_confidence": "high",
+        "routes": "870",
+        "evidence_phrase": "“Quando aspetti l 870 alla fermata Paola… lo da in arrivo da piu' di mezz'ora… Nel frattempo passa solo il nulla cosmico”"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.500433,
+          41.901308
+        ]
+      },
+      "properties": {
+        "tweet_id": "93164b3485fbf5a42e9cb33719af0b68",
+        "text": "Dossier da me consegnato all'Assessore 40 mesi fa\n\n\"fuori la stazione Termini va messo un unico grande display elettronico con tutte le prossime partenze #BUS delle varie linee, un dato essenziale oggi impossibile da sapere, perché ogni capolinea ha un codice diverso\"\n\nZERO\n\nQuoted Tweet:\n@romamobilita @InfoAtac  è prevista l'installazione di un display elettronico per P. dei Cinquecento, all'interno o appena all'esterno della stazione, che indichi il numero dello stallo e tra quanti minuti partirà quale bus? È ancora troppo difficile andare per tentativi.",
+        "matched_stop_id": "05000",
+        "matched_stop_code": "05000",
+        "matched_stop_name": "TERMINI (MA-MB-FS)",
+        "match_method": "stop_name_exact",
+        "mode": "mixed",
+        "complaint_type": "missing_realtime_data",
+        "information_failure_type": "missing_realtime_information",
+        "mentions_information_failure": true,
+        "severity": 2,
+        "classification_confidence": 0.78,
+        "spatial_confidence": "medium",
+        "routes": "",
+        "evidence_phrase": "“fuori la stazione Termini … un unico grande display elettronico … un dato essenziale oggi impossibile da sapere”"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.472062,
+          41.944303
+        ]
+      },
+      "properties": {
+        "tweet_id": "a2d9fa45d8c6c483c9e6787f58f51f24",
+        "text": "È l'anno sottoZERO della mobilità a #Roma\n\nQuoted Tweet:\n@InfoAtac e dopo UN’ORA di attesa arriva bus 32 a fermata 70008. Ma si può sapere che succede?!?",
+        "matched_stop_id": "70008",
+        "matched_stop_code": "70008",
+        "matched_stop_name": "FLAMINIA/BEVAGNA",
+        "match_method": "stop_id_exact",
+        "mode": "bus",
+        "complaint_type": "delay",
+        "information_failure_type": "none",
+        "mentions_information_failure": false,
+        "severity": 4,
+        "classification_confidence": 0.88,
+        "spatial_confidence": "high",
+        "routes": "32",
+        "evidence_phrase": "dopo UN’ORA di attesa arriva bus 32 a fermata 70008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.415988,
+          41.94637
+        ]
+      },
+      "properties": {
+        "tweet_id": "508e7595e178211d4c1c539f3671f5ec",
+        "text": "ovviam hanno risposto così come è passato il #bus..\n\nQuoted Tweet:\n@InfoAtac salve sono alla fermata 72552 da mezz'ora. Potreste darmi indicazioni sulla prossima partenza del 911 direzione Mancini? Sembrano saltate almeno 3 corse",
+        "matched_stop_id": "72552",
+        "matched_stop_code": "72552",
+        "matched_stop_name": "OSPEDALE S. FILIPPO NERI (H)",
+        "match_method": "stop_id_exact",
+        "mode": "bus",
+        "complaint_type": "bus_no_show",
+        "information_failure_type": "missing_realtime_information",
+        "mentions_information_failure": true,
+        "severity": 4,
+        "classification_confidence": 0.9,
+        "spatial_confidence": "high",
+        "routes": "911",
+        "evidence_phrase": "fermata 72552 da mezz'ora ... 911 direzione Mancini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.528713,
+          41.945682
+        ]
+      },
+      "properties": {
+        "tweet_id": "997db697320627da979dee8001685eca",
+        "text": "Se qualcuno ha il monitoraggio della rete #bus attivo...si tratta di \"sparizioni\" coi primi caldi (pissibile causa: #bus senza a/c) o solo una \"normale\" anomalia puntuale? @iencenelli\n\nQuoted Tweet:\nNon è solo il 69!! @MercurioPsi @battaglia_persa qui uscita metro jonio",
+        "matched_stop_id": "73755",
+        "matched_stop_code": "73755",
+        "matched_stop_name": "JONIO (MB1)",
+        "match_method": "stop_name_exact",
+        "mode": "bus",
+        "complaint_type": "ghost_bus",
+        "information_failure_type": "telemetry_blackout",
+        "mentions_information_failure": true,
+        "severity": 4,
+        "classification_confidence": 0.84,
+        "spatial_confidence": "medium",
+        "routes": "69",
+        "evidence_phrase": "sparizioni ... Non è solo il 69 ... uscita metro jonio"
+      }
+    }
+  ]
+}
