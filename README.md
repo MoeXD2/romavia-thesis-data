@@ -1,5 +1,7 @@
 # RomaVia Thesis Data
 
+[![DOI](https://zenodo.org/badge/1252744877.svg)](https://doi.org/10.5281/zenodo.20435088)
+
 This repository contains derived datasets and analytical outputs used in the thesis:
 
 **RomaVia – A Data-Driven Approach to Mitigating Transit Uncertainty in Rome**
